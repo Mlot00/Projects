@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VXtfyIJgI0vxj/WHAMUTH3RnDxlLBz/qLaZjVPr2Xh6oPqcVa8hBjMRbyBMZz6w2YKQQBsTnO5LG5qWF3/fUgQ==",
+  "dgSpecHash": "tniHZrOq0WJGe6ExtjvK8qRMDtf+cMXO1zvMagCggfHyfTDIiqBjU8E1Zo3kmKmZiaiy45xAYw9eFB3GBX9tzA==",
   "success": true,
-  "projectFilePath": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kryst\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512"
   ],

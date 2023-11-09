@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\CRUDDemo\\CRUDDemo.csproj": {}
+    "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\CRUDDemo\\CRUDDemo.csproj": {}
   },
   "projects": {
-    "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\CRUDDemo\\CRUDDemo.csproj": {
+    "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\CRUDDemo\\CRUDDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\CRUDDemo\\CRUDDemo.csproj",
+        "projectUniqueName": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\CRUDDemo\\CRUDDemo.csproj",
         "projectName": "CRUDDemo",
-        "projectPath": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\CRUDDemo\\CRUDDemo.csproj",
+        "projectPath": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\CRUDDemo\\CRUDDemo.csproj",
         "packagesPath": "C:\\Users\\kryst\\.nuget\\packages\\",
-        "outputPath": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\CRUDDemo\\obj\\",
+        "outputPath": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\CRUDDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kryst\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\Entities\\Entities.csproj"
+              "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\Entities\\Entities.csproj"
               },
-              "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\ServiceContracts\\ServiceContracts.csproj"
+              "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\ServiceContracts\\ServiceContracts.csproj"
               },
-              "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\Services\\Services.csproj": {
-                "projectPath": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\Services\\Services.csproj"
+              "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\Services\\Services.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\Entities\\Entities.csproj": {
+    "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\kryst\\.nuget\\packages\\",
-        "outputPath": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kryst\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -127,14 +127,14 @@
         }
       }
     },
-    "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\ServiceContracts\\ServiceContracts.csproj": {
+    "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\ServiceContracts\\ServiceContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\ServiceContracts\\ServiceContracts.csproj",
+        "projectUniqueName": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\ServiceContracts\\ServiceContracts.csproj",
         "projectName": "ServiceContracts",
-        "projectPath": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\ServiceContracts\\ServiceContracts.csproj",
+        "projectPath": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\ServiceContracts\\ServiceContracts.csproj",
         "packagesPath": "C:\\Users\\kryst\\.nuget\\packages\\",
-        "outputPath": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\ServiceContracts\\obj\\",
+        "outputPath": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\ServiceContracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kryst\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -151,8 +151,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\Entities\\Entities.csproj"
+              "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\Entities\\Entities.csproj"
               }
             }
           }
@@ -186,14 +186,14 @@
         }
       }
     },
-    "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\Services\\Services.csproj": {
+    "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\kryst\\.nuget\\packages\\",
-        "outputPath": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\Services\\obj\\",
+        "outputPath": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kryst\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -210,8 +210,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\ServiceContracts\\ServiceContracts.csproj"
+              "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\ServiceContracts\\ServiceContracts.csproj"
               }
             }
           }

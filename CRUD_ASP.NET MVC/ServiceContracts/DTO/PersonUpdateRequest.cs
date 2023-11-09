@@ -18,6 +18,7 @@ namespace ServiceContracts.DTO
 		[EmailAddress(ErrorMessage = "Email must be valid")]
 		public string? Email { get; set; }
 
+		[DataType(DataType.Date)]
 		public DateTime? DateOfBirth { get; set; }
 
 		public GenderOptions? Gender { get; set; }

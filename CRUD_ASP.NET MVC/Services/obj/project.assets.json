@@ -81,11 +81,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\Services\\Services.csproj",
+      "projectPath": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\kryst\\.nuget\\packages\\",
-      "outputPath": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\Services\\obj\\",
+      "outputPath": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kryst\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -102,8 +102,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\ServiceContracts\\ServiceContracts.csproj": {
-              "projectPath": "C:\\1_STUDIA\\1_STUDIA\\c#\\ASP.Net core\\CRUDDemo\\ServiceContracts\\ServiceContracts.csproj"
+            "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\ServiceContracts\\ServiceContracts.csproj": {
+              "projectPath": "C:\\Users\\kryst\\Desktop\\Projectss\\Projects\\CRUD_ASP.NET MVC\\ServiceContracts\\ServiceContracts.csproj"
             }
           }
         }
