@@ -1,0 +1,43 @@
+C:\1_STUDIA\1_STUDIA\c#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\1_STUDIA\1_STUDIA\c#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\1_STUDIA\1_STUDIA\c#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\1_STUDIA\1_STUDIA\c#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\1_STUDIA\1_STUDIA\c#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\1_STUDIA\1_STUDIA\c#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\1_STUDIA\1_STUDIA\c#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\1_STUDIA\1_STUDIA\c#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\1_STUDIA\1_STUDIA\c#\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\1_STUDIA\1_STUDIA\c#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\1_STUDIA\1_STUDIA\c#\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\1_STUDIA\1_STUDIA\c#\Krystian Młot 4\bin\Debug\WindowsFormsApp2.exe.config
+C:\1_STUDIA\1_STUDIA\c#\Krystian Młot 4\bin\Debug\WindowsFormsApp2.exe
+C:\1_STUDIA\1_STUDIA\c#\Krystian Młot 4\bin\Debug\WindowsFormsApp2.pdb
+C:\1_STUDIA\1_STUDIA\c#\Krystian Młot 4\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\1_STUDIA\1_STUDIA\c#\Krystian Młot 4\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\1_STUDIA\1_STUDIA\c#\Krystian Młot 4\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\1_STUDIA\1_STUDIA\c#\Krystian Młot 4\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\1_STUDIA\1_STUDIA\c#\Krystian Młot 4\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\1_STUDIA\1_STUDIA\c#\Krystian Młot 4\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\1_STUDIA\1_STUDIA\c#\Krystian Młot 4\obj\Debug\WindowsFormsApp2.exe
+C:\1_STUDIA\1_STUDIA\c#\Krystian Młot 4\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\kryst\Desktop\Projects\FormsRookAndFields\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\kryst\Desktop\Projects\FormsRookAndFields\bin\Debug\WindowsFormsApp2.exe
+C:\Users\kryst\Desktop\Projects\FormsRookAndFields\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\kryst\Desktop\Projects\FormsRookAndFields\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\kryst\Desktop\Projects\FormsRookAndFields\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kryst\Desktop\Projects\FormsRookAndFields\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\kryst\Desktop\Projects\FormsRookAndFields\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\kryst\Desktop\Projects\FormsRookAndFields\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\kryst\Desktop\Projects\FormsRookAndFields\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\kryst\Desktop\Projects\FormsRookAndFields\obj\Debug\WindowsFormsApp2.exe
+C:\Users\kryst\Desktop\Projects\FormsRookAndFields\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\kryst\Desktop\Projects\Portfolio\FormsRookAndFields\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\kryst\Desktop\Projects\Portfolio\FormsRookAndFields\bin\Debug\WindowsFormsApp2.exe
+C:\Users\kryst\Desktop\Projects\Portfolio\FormsRookAndFields\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\kryst\Desktop\Projects\Portfolio\FormsRookAndFields\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\kryst\Desktop\Projects\Portfolio\FormsRookAndFields\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\kryst\Desktop\Projects\Portfolio\FormsRookAndFields\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\kryst\Desktop\Projects\Portfolio\FormsRookAndFields\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\kryst\Desktop\Projects\Portfolio\FormsRookAndFields\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\kryst\Desktop\Projects\Portfolio\FormsRookAndFields\obj\Debug\WindowsFormsApp2.exe
+C:\Users\kryst\Desktop\Projects\Portfolio\FormsRookAndFields\obj\Debug\WindowsFormsApp2.pdb
