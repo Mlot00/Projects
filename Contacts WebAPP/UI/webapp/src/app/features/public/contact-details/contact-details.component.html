@@ -1,0 +1,70 @@
+<div class="container mt-4">
+    <h1 class="header mb-5"> Szczegóły kontaktu</h1>
+    <ng-container *ngIf="contact$ | async as contact ; else loader">
+        <ng-container *ngIf="user !== undefined; else noLogin">
+            <table class="table table-bordered  table-light ">
+                <thead>
+                    <tr>
+                        <th>Imię</th>
+                        <th>Nazwisko</th>
+                        <th>Email</th>
+                        <th>Numer telefonu</th>
+                        <th>Data urodzrnia</th>
+                        <th>Kategoria</th>
+
+                        <th></th>
+
+
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>{{contact.firstName}}</td>
+                        <td>{{contact.lastName}}</td>
+                        <td>{{contact.email}}</td>
+                        <td>{{contact.phone}}</td>
+                        <td>{{contact.dateOfBirth | date:'yyy-MM-dd'}}</td>
+                        <td> <span class="badge bg-secondary">{{contact.categoryOption.name}}</span></td>
+                        <td class="w-13">
+                            <a [routerLink]="['/contacts', contact.id]" class="btn btn-info">Edit</a>
+                            <button type="button" class="btn btn-danger ms-3"
+                                (click)="onClick(contact.id)">Delete</button>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </ng-container>
+        <ng-template #noLogin>
+            <table class="table table-bordered  table-light ">
+                <thead>
+                    <tr>
+                        <th>Imię</th>
+                        <th>Nazwisko</th>
+                        <th>Email</th>
+                        <th>Numer telefonu</th>
+                        <th>Data urodzrnia</th>
+                        <th>Kategoria</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>{{contact.firstName}}</td>
+                        <td>{{contact.lastName}}</td>
+                        <td>{{contact.email}}</td>
+                        <td>{{contact.phone}}</td>
+                        <td>{{contact.dateOfBirth | date:'yyy-MM-dd'}}</td>
+                        <td> <span class="badge bg-secondary">{{contact.categoryOption.name}}</span></td>
+                    </tr>
+                </tbody>
+            </table>
+        </ng-template>
+    </ng-container>
+
+    <ng-template #loader>
+        <div class="text-center mt-5">
+            <div class="spinner-border" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        </div>
+    </ng-template>
+</div>
